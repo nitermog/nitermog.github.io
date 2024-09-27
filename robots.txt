@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nitermog.github.io/sitemap.nitermog.gz
+Sitemap: https://nitermog.github.io/app/sitemap.nitermog.gz
+Sitemap: https://nitermog.github.io/assets/sitemap.nitermog.gz
+Sitemap: https://nitermog.github.io/css/sitemap.nitermog.gz
+Sitemap: https://nitermog.github.io/data/sitemap.nitermog.gz
+Sitemap: https://nitermog.github.io/includes/sitemap.nitermog.gz
+Sitemap: https://nitermog.github.io/item/sitemap.nitermog.gz
+Sitemap: https://nitermog.github.io/src/sitemap.nitermog.gz
